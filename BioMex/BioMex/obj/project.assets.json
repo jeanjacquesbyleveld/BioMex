@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmguCV/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/EmguCV.props": {},
+          "build/EmguCV.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmguCV/3.0.0": {
+      "sha512": "kZxIOUO6nuZ/y3dCLwInAS9fDxi1u536TJ8nVJL5eFpJmHI0k3GIqxmCHT/HTZIRetErwDSeQmUXAmPT8Zg8yA==",
+      "type": "package",
+      "path": "emgucv/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/EmguCV.props",
+        "build/EmguCV.targets",
+        "build/native/x64/cvextern.dll",
+        "build/native/x64/opencv_ffmpeg300_64.dll",
+        "build/native/x86/cvextern.dll",
+        "build/native/x86/opencv_ffmpeg300.dll",
+        "emgucv.3.0.0.nupkg.sha512",
+        "emgucv.nuspec",
+        "lib/net451/Emgu.CV.Contrib.dll",
+        "lib/net451/Emgu.CV.Contrib.pdb",
+        "lib/net451/Emgu.CV.Cuda.dll",
+        "lib/net451/Emgu.CV.Cuda.pdb",
+        "lib/net451/Emgu.CV.ML.dll",
+        "lib/net451/Emgu.CV.ML.pdb",
+        "lib/net451/Emgu.CV.OCR.dll",
+        "lib/net451/Emgu.CV.OCR.pdb",
+        "lib/net451/Emgu.CV.Shape.dll",
+        "lib/net451/Emgu.CV.Shape.pdb",
+        "lib/net451/Emgu.CV.Stitching.dll",
+        "lib/net451/Emgu.CV.Stitching.pdb",
+        "lib/net451/Emgu.CV.Superres.dll",
+        "lib/net451/Emgu.CV.Superres.pdb",
+        "lib/net451/Emgu.CV.UI.GL.dll",
+        "lib/net451/Emgu.CV.UI.dll",
+        "lib/net451/Emgu.CV.UI.pdb",
+        "lib/net451/Emgu.CV.VideoStab.dll",
+        "lib/net451/Emgu.CV.VideoStab.pdb",
+        "lib/net451/Emgu.CV.WPF.pdb",
+        "lib/net451/Emgu.CV.dll",
+        "lib/net451/Emgu.CV.pdb",
+        "lib/net451/Emgu.Util.dll",
+        "lib/net451/Emgu.Util.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EmguCV >= 3.0.0"
+    ]
+  },
+  "packageFolders": {
+    "J:\\Users\\Jean\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj",
+      "projectName": "BioMex",
+      "projectPath": "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj",
+      "packagesPath": "J:\\Users\\Jean\\.nuget\\packages\\",
+      "outputPath": "J:\\Develop\\BioMex\\BioMex\\BioMex\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "J:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "J:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "J:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "EmguCV": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "J:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

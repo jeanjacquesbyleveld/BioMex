@@ -136,3 +136,27 @@ C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\o
 C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
 C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
 C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.xml
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.xml
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.xml
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.Util.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\Emgu.Util.xml
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\bin\Debug\WPFToolkit.pdb
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.csprojAssemblyReference.cache
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\App.g.cs
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.cache
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.CopyComplete
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+J:\Develop\BioMex\BioMex First\BioMex First\obj\Debug\BioMex First.pdb

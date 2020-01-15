@@ -1,0 +1,5 @@
+J:\Develop\BioMex\BioMex\BioMex\obj\Debug\netcoreapp3.1\BioMex.csprojAssemblyReference.cache
+J:\Develop\BioMex\BioMex\BioMex\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+J:\Develop\BioMex\BioMex\BioMex\obj\Debug\netcoreapp3.1\App.g.cs
+J:\Develop\BioMex\BioMex\BioMex\obj\Debug\netcoreapp3.1\BioMex_MarkupCompile.cache
+J:\Develop\BioMex\BioMex\BioMex\obj\Debug\netcoreapp3.1\BioMex_MarkupCompile.lref

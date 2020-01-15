@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj": {}
+  },
+  "projects": {
+    "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj",
+        "projectName": "BioMex",
+        "projectPath": "J:\\Develop\\BioMex\\BioMex\\BioMex\\BioMex.csproj",
+        "packagesPath": "J:\\Users\\Jean\\.nuget\\packages\\",
+        "outputPath": "J:\\Develop\\BioMex\\BioMex\\BioMex\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "J:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "J:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "J:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "J:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
