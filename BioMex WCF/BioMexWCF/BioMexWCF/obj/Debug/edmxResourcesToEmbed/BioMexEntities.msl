@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BioMexDBModelStoreContainer" CdmEntityContainer="BioMexDBEntities2">
+    <EntitySetMapping Name="KeyFeatures">
+      <EntityTypeMapping TypeName="IsTypeOf(BioMexDBModel.KeyFeature)">
+        <MappingFragment StoreEntitySet="KeyFeatures">
+          <ScalarProperty Name="KF_Id" ColumnName="KF_Id" />
+          <ScalarProperty Name="KF_TimeTaken" ColumnName="KF_TimeTaken" />
+          <ScalarProperty Name="KF_TypingSpeed" ColumnName="KF_TypingSpeed" />
+          <ScalarProperty Name="KF_ShiftClass" ColumnName="KF_ShiftClass" />
+          <ScalarProperty Name="US_Id" ColumnName="US_Id" />
+          <ScalarProperty Name="UserUS_Id" ColumnName="UserUS_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="IsTypeOf(BioMexDBModel.User)">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="US_Id" ColumnName="US_Id" />
+          <ScalarProperty Name="US_Name" ColumnName="US_Name" />
+          <ScalarProperty Name="US_Surname" ColumnName="US_Surname" />
+          <ScalarProperty Name="US_Age" ColumnName="US_Age" />
+          <ScalarProperty Name="US_Username" ColumnName="US_Username" />
+          <ScalarProperty Name="US_Password" ColumnName="US_Password" />
+          <ScalarProperty Name="US_UpToDate" ColumnName="US_UpToDate" />
+          <ScalarProperty Name="US_LastLoggedIn" ColumnName="US_LastLoggedIn" />
+          <ScalarProperty Name="US_PasswordCount" ColumnName="US_PasswordCount" />
+          <ScalarProperty Name="US_Administrator" ColumnName="US_Administrator" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BioMexDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="BioMexDBModelStoreContainer" />
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BioMexDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="KeyStrokeFeature">
+          <Key>
+            <PropertyRef Name="KF_ID" />
+          </Key>
+          <Property Name="KF_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KF_TimeTaken" Type="DateTime" Precision="3" />
+          <Property Name="KF_TypingSpeed" Type="Int32" />
+          <Property Name="KF_ShiftClassification" Type="Int32" />
+          <NavigationProperty Name="User" Relationship="BioMexDBModel.UserKeyStrokeFeature" FromRole="KeyStrokeFeature" ToRole="User" />
+          <Property Name="UserUS_ID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="US_ID" />
+          </Key>
+          <Property Name="US_ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" Type="Int32" />
+          <Property Name="US_Name" MaxLength="Max" FixedLength="false" Unicode="false" Type="String" />
+          <Property Name="US_Surname" MaxLength="Max" FixedLength="false" Unicode="false" Type="String" />
+          <Property Name="US_Age" Type="Int32" />
+          <Property Name="US_UpToDate" Type="Boolean" />
+          <Property Name="US_DateLastLoggedIn" Precision="3" Type="DateTime" />
+          <Property Name="US_Username" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" Type="String" />
+          <Property Name="US_Password" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" Type="String" />
+          <Property Name="US_PasswordCount" Nullable="false" Type="Int32" />
+          <Property Name="US_Administrator" Nullable="false" Type="Boolean" />
+          <Property Name="KF_ID" Nullable="false" Type="Int32" />
+          <NavigationProperty Name="KeyStrokeFeatures" Relationship="BioMexDBModel.UserKeyStrokeFeature" FromRole="User" ToRole="KeyStrokeFeature" />
+        </EntityType>
+        <EntityContainer Name="BioMexDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="KeyStrokeFeatures" EntityType="Self.KeyStrokeFeature" />
+          <EntitySet Name="Users" EntityType="BioMexDBModel.User" />
+          <AssociationSet Name="UserKeyStrokeFeature" Association="BioMexDBModel.UserKeyStrokeFeature">
+            <End Role="User" EntitySet="Users" />
+            <End Role="KeyStrokeFeature" EntitySet="KeyStrokeFeatures" />
+          </AssociationSet>
+        </EntityContainer>
+        <Association Name="UserKeyStrokeFeature">
+          <End Type="BioMexDBModel.User" Role="User" Multiplicity="1" />
+          <End Type="BioMexDBModel.KeyStrokeFeature" Role="KeyStrokeFeature" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="US_ID" />
+            </Principal>
+            <Dependent Role="KeyStrokeFeature">
+              <PropertyRef Name="UserUS_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BioMexDBModelStoreContainer" CdmEntityContainer="BioMexDBEntities">
+    </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

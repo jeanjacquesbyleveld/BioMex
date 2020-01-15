@@ -1,0 +1,138 @@
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\App.g.cs
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+c:\users\jean100\documents\visual studio 2013\Projects\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\App.g.cs
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+C:\Users\Jay\Documents\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\App.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.ML.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Shape.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Superres.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.UI.GL.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.VideoStab.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\nunit.framework.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\WebcamControl.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\ZedGraph.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.ML.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Shape.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Superres.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.UI.GL.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.VideoStab.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\ZedGraph.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\zh-CN\ZedGraph.resources.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\nunit.framework.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\WebcamControl.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\ZedGraph.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\ZedGraph.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csprojResolveAssemblyReference.cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\App.g.cs
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csprojResolveAssemblyReference.cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\App.g.cs
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.UI.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csprojResolveAssemblyReference.cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe.config
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.exe
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\BioMex First.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\nunit.framework.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\WebcamControl.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\WPFToolkit.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\Emgu.Util.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Debug\WPFToolkit.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.baml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\MainWindow.g.cs
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\App.g.cs
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First_MarkupCompile.cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.g.resources
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex_First.Properties.Resources.resources
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.csproj.GenerateResource.Cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.exe
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Debug\BioMex First.pdb

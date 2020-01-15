@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BioMexDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BioMexDBModelStoreContainer">
+    <EntitySet Name="KeyFeatures" EntityType="BioMexDBModel.Store.KeyFeatures" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="BioMexDBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="UserKeyFeature" Association="BioMexDBModel.Store.UserKeyFeature">
+      <End Role="User" EntitySet="Users" />
+      <End Role="KeyFeature" EntitySet="KeyFeatures" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="KeyFeatures">
+    <Key>
+      <PropertyRef Name="KF_Id" />
+    </Key>
+    <Property Name="KF_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KF_TimeTaken" Type="datetime" Nullable="true" />
+    <Property Name="KF_TypingSpeed" Type="int" Nullable="false" />
+    <Property Name="KF_ShiftClass" Type="int" Nullable="true" />
+    <Property Name="US_Id" Type="int" Nullable="true" />
+    <Property Name="UserUS_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="US_Id" />
+    </Key>
+    <Property Name="US_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="US_Name" Type="varchar(max)" Nullable="true" />
+    <Property Name="US_Surname" Type="varchar(max)" Nullable="true" />
+    <Property Name="US_Age" Type="int" Nullable="true" />
+    <Property Name="US_Username" Type="varchar(max)" Nullable="false" />
+    <Property Name="US_Password" Type="varchar(max)" Nullable="false" />
+    <Property Name="US_UpToDate" Type="bit" Nullable="true" />
+    <Property Name="US_LastLoggedIn" Type="datetime" Nullable="true" />
+    <Property Name="US_PasswordCount" Type="int" Nullable="true" />
+    <Property Name="US_Administrator" Type="bit" Nullable="true" />
+  </EntityType>
+  <Association Name="UserKeyFeature">
+    <End Role="User" Type="BioMexDBModel.Store.Users" Multiplicity="1" />
+    <End Role="KeyFeature" Type="BioMexDBModel.Store.KeyFeatures" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="US_Id" />
+      </Principal>
+      <Dependent Role="KeyFeature">
+        <PropertyRef Name="UserUS_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BioMexDatabaseModelStoreContainer" CdmEntityContainer="BioMexDatabaseEntities1">
+    <EntitySetMapping Name="FaceFeatures">
+      <EntityTypeMapping TypeName="BioMexDatabaseModel.FaceFeature">
+        <MappingFragment StoreEntitySet="FaceFeature">
+          <ScalarProperty Name="FF_DESCRIPTORS" ColumnName="FF_DESCRIPTORS" />
+          <ScalarProperty Name="FF_KEY_POINTS" ColumnName="FF_KEY_POINTS" />
+          <ScalarProperty Name="FF_ID" ColumnName="FF_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Features">
+      <EntityTypeMapping TypeName="BioMexDatabaseModel.Feature">
+        <MappingFragment StoreEntitySet="Features">
+          <ScalarProperty Name="FE_ID" ColumnName="FE_ID" />
+          <ScalarProperty Name="US_ID" ColumnName="US_ID" />
+          <ScalarProperty Name="FE_TIME_TAKEN" ColumnName="FE_TIME_TAKEN" />
+          <ScalarProperty Name="FE_TYPING_SPEED" ColumnName="FE_TYPING_SPEED" />
+          <ScalarProperty Name="FE_SHIFT_CLASS" ColumnName="FE_SHIFT_CLASS" />
+          <ScalarProperty Name="FE_PASSWORD_COUNT" ColumnName="FE_PASSWORD_COUNT" />
+          <ScalarProperty Name="FE_KEY_PRESS_DURATION" ColumnName="FE_KEY_PRESS_DURATION" />
+          <ScalarProperty Name="FE_KEY_LATENCIES" ColumnName="FE_KEY_LATENCIES" />
+          <ScalarProperty Name="FE_KEY_ORDER" ColumnName="FE_KEY_ORDER" />
+          <ScalarProperty Name="FE_PAIRED_KEYS" ColumnName="FE_PAIRED_KEYS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="BioMexDatabaseModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="US_ID" ColumnName="US_ID" />
+          <ScalarProperty Name="US_NAME" ColumnName="US_NAME" />
+          <ScalarProperty Name="US_SURNAME" ColumnName="US_SURNAME" />
+          <ScalarProperty Name="US_USERNAME" ColumnName="US_USERNAME" />
+          <ScalarProperty Name="US_PASSWORD" ColumnName="US_PASSWORD" />
+          <ScalarProperty Name="US_AGE" ColumnName="US_AGE" />
+          <ScalarProperty Name="US_UP_TO_DATE" ColumnName="US_UP_TO_DATE" />
+          <ScalarProperty Name="US_LAST_LOGGED_IN" ColumnName="US_LAST_LOGGED_IN" />
+          <ScalarProperty Name="US_IS_ADMIN" ColumnName="US_IS_ADMIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IdealFeatures">
+      <EntityTypeMapping TypeName="BioMexDatabaseModel.IdealFeature">
+        <MappingFragment StoreEntitySet="IdealFeatures">
+          <ScalarProperty Name="IF_PAIRED_KEYS" ColumnName="IF_PAIRED_KEYS" />
+          <ScalarProperty Name="IF_KEY_ORDER" ColumnName="IF_KEY_ORDER" />
+          <ScalarProperty Name="IF_KEY_LATENCIES" ColumnName="IF_KEY_LATENCIES" />
+          <ScalarProperty Name="IF_KEY_PRESS_DURATION" ColumnName="IF_KEY_PRESS_DURATION" />
+          <ScalarProperty Name="IF_PASSWORD_COUNT" ColumnName="IF_PASSWORD_COUNT" />
+          <ScalarProperty Name="IF_SHIFT_CLASS" ColumnName="IF_SHIFT_CLASS" />
+          <ScalarProperty Name="IF_TYPING_SPEED" ColumnName="IF_TYPING_SPEED" />
+          <ScalarProperty Name="IF_TIME_TAKEN" ColumnName="IF_TIME_TAKEN" />
+          <ScalarProperty Name="US_ID" ColumnName="US_ID" />
+          <ScalarProperty Name="IF_ID" ColumnName="IF_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

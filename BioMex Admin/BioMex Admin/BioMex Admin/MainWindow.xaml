@@ -1,0 +1,97 @@
+﻿<Window x:Name="frmBioMexAdmin" x:Class="BioMex_Admin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BioMex Admin" Height="350" Width="525" WindowStyle="ToolWindow" Foreground="Black" Background="White" MinWidth="525" MinHeight="350" MaxWidth="525" MaxHeight="350" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="Images/images (1).jpg" Closing="frmBioMexAdmin_Closing">
+    <Grid>
+        <GroupBox x:Name="grbMain" BorderBrush="{x:Null}">
+            <Grid Margin="-19,0,-2,-6">
+                <Label x:Name="lblTimeHour" Content="12" HorizontalAlignment="Left" Margin="52,22,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="25" Width="35"/>
+                <Label x:Name="lblTimeMin" Content="56" HorizontalAlignment="Left" Margin="80,22,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="25" Width="32"/>
+                <Label x:Name="lblTimeSec" Content="48" HorizontalAlignment="Left" Margin="110,22,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="25" Width="35"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="74,15,0,0" VerticalAlignment="Top" FontSize="25" Width="16"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="103,15,0,0" VerticalAlignment="Top" FontSize="25" Width="16"/>
+                <Label x:Name="lblDateD" Content="10" HorizontalAlignment="Left" Margin="52,58,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="18"/>
+                <Label x:Name="lblDateM" Content="07" HorizontalAlignment="Left" Margin="77,58,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="18"/>
+                <Label x:Name="lblDateY" Content="2015" HorizontalAlignment="Left" Margin="102,58,0,0" VerticalAlignment="Top" FontFamily="License Plate" FontSize="18"/>
+                <Label Content="/" HorizontalAlignment="Left" Margin="68,54,0,0" VerticalAlignment="Top" FontSize="18" Width="19" RenderTransformOrigin="1.25,1.882"/>
+                <Label Content="/" HorizontalAlignment="Left" Margin="92,54,0,0" VerticalAlignment="Top" FontSize="18" Width="20"/>
+                <Label Content="Welcome!" HorizontalAlignment="Left" Margin="20,118,0,0" VerticalAlignment="Top" FontSize="23" FontWeight="Bold"/>
+                <Button x:Name="btnRegister" Content="  Register New User" HorizontalAlignment="Left" Margin="295,117,0,0" Width="212" BorderBrush="#FF838383" RenderTransformOrigin="0.07,0.45" Height="38" FontSize="18" TextOptions.TextHintingMode="Animated" ToolTip="Enroll a new user to BioMex" BorderThickness="2,0" VerticalAlignment="Top" HorizontalContentAlignment="Left" Background="{x:Null}" Click="btnRegister_Click" MouseEnter="btnRegister_MouseEnter"/>
+                <!--<Button x:Name="btnMessages" Content="  Messages (0)" HorizontalAlignment="Left" Margin="295,173,0,0" VerticalAlignment="Top" Width="212" BorderBrush="#FF858585" Background="{x:Null}" Height="41" FontSize="18" BorderThickness="2,0" HorizontalContentAlignment="Left" Click="btnMessages_Click" Padding="10,1,1,1"/>-->
+                <Image x:Name="img1" HorizontalAlignment="Left" Height="38" Margin="464,117,0,0" VerticalAlignment="Top" Width="43" Source="Images/right arrow.png" OpacityMask="#FF4E8FFF" MouseLeftButtonUp="btnRegister_Click"/>
+                <!--<Image x:Name="img2" HorizontalAlignment="Left" Height="38" Margin="464,176,0,0" VerticalAlignment="Top" Width="43" Source="Images/right arrow.png" MouseLeftButtonUp="btnMessages_Click"/>-->
+                <Image HorizontalAlignment="Left" Height="121" Margin="52,188,0,0" VerticalAlignment="Top" Width="119" Source="Images/520853-thumbs_mark-512.png"/>
+            </Grid>
+        </GroupBox>
+
+        <Button x:Name="btnBack" Content="Back  " HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top" Width="125" BorderBrush="#FF858585" Background="{x:Null}" Height="41" FontSize="18" BorderThickness="2,0" HorizontalContentAlignment="Right" Click="btnBack_Click"/>
+        <Image x:Name="imgBack" HorizontalAlignment="Left" Height="38" Margin="32,11,0,0" VerticalAlignment="Top" Width="43" Source="Images/right arrow.png" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="btnBack_Click">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <GroupBox x:Name="grbRegister" BorderBrush="{x:Null}" Margin="0,56,0,0">
+            <Grid Margin="-19,0,-2,-6">
+                <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="49,26,0,0" TextWrapping="Wrap" Text="Name..." VerticalAlignment="Top" Width="120" GotFocus="txtName_GotFocus"/>
+                <TextBox x:Name="txtSurname" HorizontalAlignment="Left" Height="23" Margin="49,54,0,0" TextWrapping="Wrap" Text="Surname..." VerticalAlignment="Top" Width="120" GotFocus="txtSurname_GotFocus"/>
+                <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="23" Margin="49,82,0,0" TextWrapping="Wrap" Text="Username..." VerticalAlignment="Top" Width="120" GotFocus="txtUsername_GotFocus" LostFocus="txtUsername_LostFocus"/>
+                <PasswordBox x:Name="pwb1" HorizontalAlignment="Left" Height="23" Margin="233,27,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb1_GotFocus"/>
+                <PasswordBox x:Name="pwb2" HorizontalAlignment="Left" Height="23" Margin="233,55,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb2_GotFocus" IsEnabled="False"/>
+                <PasswordBox x:Name="pwb3" HorizontalAlignment="Left" Height="23" Margin="233,83,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb3_GotFocus" IsEnabled="False"/>
+                <PasswordBox x:Name="pwb4" HorizontalAlignment="Left" Height="23" Margin="233,111,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb4_GotFocus" IsEnabled="False"/>
+                <PasswordBox x:Name="pwb5" HorizontalAlignment="Left" Height="23" Margin="233,139,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb5_GotFocus" IsEnabled="False"/>
+                <PasswordBox x:Name="pwb6" HorizontalAlignment="Left" Height="23" Margin="233,167,0,0" VerticalAlignment="Top" Width="170" Password="....." GotFocus="pwb6_GotFocus" IsEnabled="False"/>
+
+                <Image x:Name="imgInfo" HorizontalAlignment="Left" Height="23" Margin="408,29,0,0" VerticalAlignment="Top" Width="25" Source="Images/index.png" MouseLeftButtonUp="imgInfo_MouseLeftButtonUp" ToolTip="Information"/>
+                <Label Content="Date of Birth:" HorizontalAlignment="Left" Margin="49,122,0,0" VerticalAlignment="Top"/>
+
+                <DatePicker x:Name="dtpDOB" HorizontalAlignment="Left" Margin="49,148,0,0" VerticalAlignment="Top" DisplayDateEnd="2015-01-01" DisplayDateStart="1930-01-01"/>
+                <Button x:Name="btnNext" Content="Next" HorizontalAlignment="Left" Margin="426,217,0,0" VerticalAlignment="Top" Width="70" BorderBrush="#FF858585" Background="{x:Null}" Height="28" FontSize="15" BorderThickness="3,1" Click="btnNext_Click"/>
+                <Label Content="Enter your password and press enter in each box:" HorizontalAlignment="Left" Margin="207,-2,0,0" VerticalAlignment="Top"/>
+
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="grbFaceRec" BorderBrush="{x:Null}" Margin="0,56,0,0">
+            <Grid Margin="-19,0,-2,-6">
+                <Image x:Name="imgFace" HorizontalAlignment="Left" Height="162" Margin="131,32,0,0" VerticalAlignment="Top" Width="318"/>
+                <Image x:Name="imgFace2" HorizontalAlignment="Left" Height="84" Margin="400,0,0,0" VerticalAlignment="Top" Width="87"/>
+                <Image x:Name="imgFace3" HorizontalAlignment="Left" Height="86" Margin="402,89,0,0" VerticalAlignment="Top" Width="94"/>
+                <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="426,217,0,0" VerticalAlignment="Top" Width="70" BorderBrush="#FF858585" Background="{x:Null}" Height="28" FontSize="15" BorderThickness="3,1" Click="btnSubmit_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="grbInfo" Header="" HorizontalAlignment="Left" Margin="93,56,0,0" VerticalAlignment="Top" Height="176" Width="294" Background="White" Foreground="White" BorderBrush="{x:Null}">
+            <GroupBox.Effect>
+                <DropShadowEffect Color="#FF616161" BlurRadius="10"/>
+            </GroupBox.Effect>
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="10,22,0,0" TextWrapping="Wrap" Text="Enter your username and 10-20 character alphanumerical password. 
+                           
+                           Once your password is correctly entered, press enter to complete log in operation." VerticalAlignment="Top" Foreground="Black"/>
+                <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="95,119,0,0" VerticalAlignment="Top" Width="75" BorderBrush="Black" Foreground="Black" Background="White" BorderThickness="2,1" Height="25" RenderTransformOrigin="0.5,0.5" Click="btnClose_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="grbSuccess" Header="" HorizontalAlignment="Left" Margin="118,88,0,0" VerticalAlignment="Top" Height="113" Width="233" Background="White" Foreground="White" BorderBrush="{x:Null}">
+            <GroupBox.Effect>
+                <DropShadowEffect Color="#FF616161" BlurRadius="10"/>
+            </GroupBox.Effect>
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="21,10,0,0" TextWrapping="Wrap" Text="User successfully registered!" VerticalAlignment="Top" Foreground="Black"/>
+                <Button x:Name="btnContinue" Content="Close" HorizontalAlignment="Left" Margin="105,56,0,0" VerticalAlignment="Top" Width="75" BorderBrush="Black" Foreground="Black" Background="White" BorderThickness="2,1" Height="25" RenderTransformOrigin="0.5,0.5" Click="btnContinue_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <Image x:Name="imgPrint" HorizontalAlignment="Left" Height="48" Margin="20,262,0,0" VerticalAlignment="Top" Width="60" Source="Images/520853-thumbs_mark-512.png"/>
+        <Label Content="BioMex" HorizontalAlignment="Left" Margin="354,0,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Administrator" HorizontalAlignment="Left" Margin="429,8,0,0" VerticalAlignment="Top" FontSize="11"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BioMexDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FaceFeature">
+    <Key>
+      <PropertyRef Name="FF_ID" />
+    </Key>
+    <Property Name="FF_ID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Feature" Relationship="Self.FK__FaceFeatu__FF_ID__36B12243" FromRole="FaceFeature" ToRole="Features" />
+    <Property Name="FF_KEY_POINTS" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FF_DESCRIPTORS" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Feature">
+    <Key>
+      <PropertyRef Name="FE_ID" />
+    </Key>
+    <Property Name="FE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="US_ID" Type="Int32" Nullable="false" />
+    <Property Name="FE_TIME_TAKEN" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FE_TYPING_SPEED" Type="Int32" Nullable="false" />
+    <Property Name="FE_SHIFT_CLASS" Type="Int32" Nullable="false" />
+    <Property Name="FE_PASSWORD_COUNT" Type="Int32" Nullable="false" />
+    <Property Name="FE_KEY_PRESS_DURATION" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FE_KEY_LATENCIES" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FE_KEY_ORDER" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FE_PAIRED_KEYS" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="FaceFeature" Relationship="Self.FK__FaceFeatu__FF_ID__36B12243" FromRole="Features" ToRole="FaceFeature" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Features__US_ID__37A5467C" FromRole="Features" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="US_ID" />
+    </Key>
+    <Property Name="US_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="US_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_SURNAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_USERNAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="US_PASSWORD" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="US_AGE" Type="Int32" />
+    <Property Name="US_UP_TO_DATE" Type="Boolean" Nullable="false" />
+    <Property Name="US_LAST_LOGGED_IN" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="US_IS_ADMIN" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Features" Relationship="Self.FK__Features__US_ID__37A5467C" FromRole="Users" ToRole="Features" />
+    <NavigationProperty Name="IdealFeatures" Relationship="BioMexDatabaseModel.FK__IdealFeat__US_ID__49C3F6B7" FromRole="User" ToRole="IdealFeature" />
+  </EntityType>
+  <Association Name="FK__FaceFeatu__FF_ID__36B12243">
+    <End Role="Features" Type="Self.Feature" Multiplicity="1" />
+    <End Role="FaceFeature" Type="Self.FaceFeature" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Features">
+        <PropertyRef Name="FE_ID" />
+      </Principal>
+      <Dependent Role="FaceFeature">
+        <PropertyRef Name="FF_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Features__US_ID__37A5467C">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Features" Type="Self.Feature" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="US_ID" />
+      </Principal>
+      <Dependent Role="Features">
+        <PropertyRef Name="US_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BioMexDatabaseEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FaceFeatures" EntityType="Self.FaceFeature" />
+    <EntitySet Name="Features" EntityType="Self.Feature" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__FaceFeatu__FF_ID__36B12243" Association="Self.FK__FaceFeatu__FF_ID__36B12243">
+      <End Role="Features" EntitySet="Features" />
+      <End Role="FaceFeature" EntitySet="FaceFeatures" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Features__US_ID__37A5467C" Association="Self.FK__Features__US_ID__37A5467C">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Features" EntitySet="Features" />
+    </AssociationSet>
+    <EntitySet Name="IdealFeatures" EntityType="BioMexDatabaseModel.IdealFeature" />
+    <AssociationSet Name="FK__IdealFeat__US_ID__49C3F6B7" Association="BioMexDatabaseModel.FK__IdealFeat__US_ID__49C3F6B7">
+      <End Role="User" EntitySet="Users" />
+      <End Role="IdealFeature" EntitySet="IdealFeatures" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="IdealFeature">
+    <Key>
+      <PropertyRef Name="IF_ID" />
+    </Key>
+    <Property Name="IF_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="US_ID" Type="Int32" Nullable="false" />
+    <Property Name="IF_TIME_TAKEN" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IF_TYPING_SPEED" Type="Int32" Nullable="false" />
+    <Property Name="IF_SHIFT_CLASS" Type="Int32" Nullable="false" />
+    <Property Name="IF_PASSWORD_COUNT" Type="Int32" Nullable="false" />
+    <Property Name="IF_KEY_PRESS_DURATION" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IF_KEY_LATENCIES" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IF_KEY_ORDER" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IF_PAIRED_KEYS" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="User" Relationship="BioMexDatabaseModel.FK__IdealFeat__US_ID__49C3F6B7" FromRole="IdealFeature" ToRole="User" />
+  </EntityType>
+  <Association Name="FK__IdealFeat__US_ID__49C3F6B7">
+    <End Type="BioMexDatabaseModel.User" Role="User" Multiplicity="1" />
+    <End Type="BioMexDatabaseModel.IdealFeature" Role="IdealFeature" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="US_ID" />
+      </Principal>
+      <Dependent Role="IdealFeature">
+        <PropertyRef Name="US_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

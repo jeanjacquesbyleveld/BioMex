@@ -1,0 +1,75 @@
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.exe.config
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.exe
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.pdb
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\MainWindow.baml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\MainWindow.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\App.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin_MarkupCompile.cache
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.g.resources
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex_Admin.Properties.Resources.resources
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.csproj.GenerateResource.Cache
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.exe
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.pdb
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.ML.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Shape.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Superres.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.UI.GL.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.VideoStab.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\WebcamControl.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Utilities.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Types.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.ML.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Shape.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Superres.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.UI.GL.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.VideoStab.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.pdb
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Types.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.csprojResolveAssemblyReference.cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.exe.config
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.exe
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.exe
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\BioMex Admin.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Cuda.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.ML.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Shape.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Superres.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.VideoStab.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\WebcamControl.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Types.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Cuda.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Cuda.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.ML.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Shape.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Superres.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.VideoStab.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.pdb
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.Util.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Microsoft.Expression.Encoder.Types.xml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.csprojResolveAssemblyReference.cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\MainWindow.baml
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\MainWindow.g.cs
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\App.g.cs
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin_MarkupCompile.cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.g.resources
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex_Admin.Properties.Resources.resources
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\obj\Release\BioMex Admin.csproj.GenerateResource.Cache
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\ZedGraph.dll
+C:\Users\Jean100\Documents\Courses\University of Johannesburg\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\ZedGraph.xml
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\Emgu.CV.Cuda.dll
+I:\Honours\Project\#Demo Prototype\BioMex Admin\BioMex Admin\BioMex Admin\bin\Release\ZedGraph.dll

@@ -1,0 +1,87 @@
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.exe.config
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.exe
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.UI.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.Util.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Api2.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Types.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Utilities.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\nunit.framework.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\WebcamControl.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\ZedGraph.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Api2.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Types.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.baml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\App.g.cs
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First_MarkupCompile.cache
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.g.resources
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex_First.Properties.Resources.resources
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.csproj.GenerateResource.Cache
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.exe
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Contrib.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Cuda.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.ML.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Shape.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Superres.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.UI.GL.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.VideoStab.dll
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Contrib.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Contrib.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.ML.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Shape.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Superres.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.UI.GL.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.VideoStab.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.Util.pdb
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.Util.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\ZedGraph.xml
+I:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\zh-CN\ZedGraph.resources.dll
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.exe.config
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.exe
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.exe
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Cuda.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Cuda.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.ML.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Shape.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.Superres.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.UI.GL.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.CV.VideoStab.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.Util.pdb
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Emgu.Util.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Api2.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Types.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\ZedGraph.xml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\bin\Release\zh-CN\ZedGraph.resources.dll
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.csprojResolveAssemblyReference.cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.baml
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.g.cs
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\App.g.cs
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First_MarkupCompile.cache
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.g.resources
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex_First.Properties.Resources.resources
+G:\Honours\Project\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.csproj.GenerateResource.Cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\bin\Release\BioMex First.exe.config
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.exe
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.csprojResolveAssemblyReference.cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.baml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\MainWindow.g.cs
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\App.g.cs
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First_MarkupCompile.cache
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.g.resources
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex_First.Properties.Resources.resources
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex First\BioMex First\obj\Release\BioMex First.csproj.GenerateResource.Cache

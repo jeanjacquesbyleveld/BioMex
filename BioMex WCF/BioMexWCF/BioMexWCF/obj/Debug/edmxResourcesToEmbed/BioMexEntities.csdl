@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BioMexDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BioMexDBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KeyFeatures" EntityType="BioMexDBModel.KeyFeature" />
+    <EntitySet Name="Users" EntityType="BioMexDBModel.User" />
+    <AssociationSet Name="UserKeyFeature" Association="BioMexDBModel.UserKeyFeature">
+      <End Role="User" EntitySet="Users" />
+      <End Role="KeyFeature" EntitySet="KeyFeatures" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="KeyFeature">
+    <Key>
+      <PropertyRef Name="KF_Id" />
+    </Key>
+    <Property Name="KF_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KF_TimeTaken" Type="DateTime" Precision="3" />
+    <Property Name="KF_TypingSpeed" Type="Int32" Nullable="false" />
+    <Property Name="KF_ShiftClass" Type="Int32" />
+    <Property Name="US_Id" Type="Int32" />
+    <NavigationProperty Name="User" Relationship="BioMexDBModel.UserKeyFeature" FromRole="KeyFeature" ToRole="User" />
+    <Property Name="UserUS_Id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="US_Id" />
+    </Key>
+    <Property Name="US_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="US_Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_Surname" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_Age" Type="Int32" />
+    <Property Name="US_Username" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_Password" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="US_UpToDate" Type="Boolean" />
+    <Property Name="US_LastLoggedIn" Type="DateTime" Precision="3" />
+    <Property Name="US_PasswordCount" Type="Int32" />
+    <Property Name="US_Administrator" Type="Boolean" />
+    <NavigationProperty Name="KeyFeatures" Relationship="BioMexDBModel.UserKeyFeature" FromRole="User" ToRole="KeyFeature" />
+  </EntityType>
+  <Association Name="UserKeyFeature">
+    <End Type="BioMexDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="BioMexDBModel.KeyFeature" Role="KeyFeature" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="US_Id" />
+      </Principal>
+      <Dependent Role="KeyFeature">
+        <PropertyRef Name="UserUS_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

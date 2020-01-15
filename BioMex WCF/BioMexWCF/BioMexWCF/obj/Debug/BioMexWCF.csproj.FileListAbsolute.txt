@@ -1,0 +1,36 @@
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll.config
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\bin\BioMexWCF.pdb
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.csprojResolveAssemblyReference.cache
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.dll
+I:\Honours\Project\#Demo Prototype\BioMex DB\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.pdb
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll.config
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.pdb
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.dll
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.SqlServer.dll
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.xml
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.SqlServer.xml
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.dll
+I:\Honours\Project\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll.config
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\BioMexWCF.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.Cuda.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.UI.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.Util.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\ZedGraph.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.Cuda.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.CV.UI.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.Util.pdb
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\Emgu.Util.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\ZedGraph.xml
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\bin\zh-CN\ZedGraph.resources.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.dll
+C:\Users\Jean100\Desktop\Working Set\#Demo Prototype\BioMex WCF\BioMexWCF\BioMexWCF\obj\Debug\BioMexWCF.pdb
